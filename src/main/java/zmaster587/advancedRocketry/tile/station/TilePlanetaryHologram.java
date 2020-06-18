@@ -321,7 +321,7 @@ public class TilePlanetaryHologram extends TileEntity implements ITickable,IButt
 	}
 
 	private float getHologramSize() {
-		return (size*10 + 0.8f);
+		return (size*1 + 0.8f);
 	}
 
 	private float getInterpHologramSize() {
